@@ -4,6 +4,10 @@ body {
   line-height: 1;
 }
 
+.header {
+    background-color: aquamarine;
+}
+
 textarea{
   background: transparent;
   border: none;
